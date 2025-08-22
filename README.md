@@ -1,23 +1,45 @@
-# 🚀 My JavaScript Learning Journey
+# 🚀 JavaScript Learning Repository  
 
-I’ve started learning **JavaScript** through a paid Udemy course.  
-But instead of keeping it to myself, I’m sharing my **practice code, exercises, and projects** here — completely free 💡  
-
----
-
-## ⚡ About This Repo
-- 📚 All code is **written by me** while learning.  
-- 👨‍💻 Covers **exercises, mini-projects, and challenges**.  
-- 🌍 Anyone can follow along — **no paid course required!**  
+This repository contains my **JavaScript practice** files and **mini projects**.  
+I am learning step by step and documenting everything here.  
 
 ---
 
-## 📌 Why I’m Sharing
-I believe in **learning in public** — it helps me grow and also benefits others.  
-If you’re also learning JavaScript, this repo can be your **free practice companion** 🚀  
+## 📂 Folder Structure  
+
+### 1. `js-practice/`  
+- Small practice codes  
+- Covers topics like arrays, loops, functions, DOM, etc.  
+
+### 2. `js-projects/`  
+- Mini projects using **HTML, CSS, and JavaScript**  
+- Examples: To-Do App, Quiz App, Calculator, Weather App  
 
 ---
 
-## 🔮 What’s Next
-👉 More **projects and challenges** coming soon!  
-⭐ Don’t forget to **star the repo** if you find it helpful.  
+## 🛠️ Tech Stack  
+- **JavaScript (Vanilla JS)**  
+- **HTML5**  
+- **CSS3**  
+
+---
+
+## 🎯 Goals  
+- Improve problem-solving with JavaScript  
+- Build projects to strengthen concepts  
+- Document my journey for future reference  
+
+---
+
+## ✨ Projects Preview  
+| Project | Description |
+|---------|-------------|
+| 📝 To-Do App | Add, delete, and mark tasks as done | Comming Soon
+| ❓ Quiz App | Answer multiple-choice questions and get score | Comming Soon
+| 🔢 Calculator | Perform basic math operations | Comming Soon
+
+---
+
+## 📌 Notes  
+This repo is mainly for **learning purposes**.  
+If you’re also learning JavaScript, feel free to explore! 😃  
