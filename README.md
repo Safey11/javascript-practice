@@ -1,4 +1,7 @@
-# 🚀 My JavaScript Learning Journey
+# 🚀 My JavaScript Learning Journey  
 
-This repo contains my practice files, exercises, and projects while learning JavaScript.  
-Licensed under MIT so anyone can use it freely. 
+I’m currently learning JavaScript from a **paid Udemy course**.  
+To help others, I’m sharing **my own practice code, exercises, and projects** here for free.  
+⚡ Everything here is written by me while learning — so anyone can benefit without needing the course.  
+
+
