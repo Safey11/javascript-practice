@@ -34,9 +34,9 @@ I am learning step by step and documenting everything here.
 ## ✨ Projects Preview  
 | Project | Description |
 |---------|-------------|
-| 📝 To-Do App | Add, delete, and mark tasks as done | Comming Soon
-| ❓ Quiz App | Answer multiple-choice questions and get score | Comming Soon
-| 🔢 Calculator | Perform basic math operations | Comming Soon
+| 📝 To-Do App | Add, delete, and mark tasks as done | Comming Soon |
+| ❓ Quiz App | Answer multiple-choice questions and get score | Comming Soon |
+| 🔢 Calculator | Perform basic math operations | Comming Soon |
 
 ---
 
